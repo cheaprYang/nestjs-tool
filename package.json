@@ -34,7 +34,7 @@
     "@rollup/plugin-json": "^4.1.0",
     "@rollup/plugin-node-resolve": "^9.0.0",
     "@rollup/plugin-replace": "^2.3.3",
-    "@types/node": "^14.11.8",
+    "@types/node": "^16.4.10",
     "@types/puppeteer": "^3.0.2",
     "chalk": "^4.1.0",
     "execa": "^4.0.3",
